@@ -1,7 +1,7 @@
 /* general styles*/
 @font-face {
     font-family: tes;
-    src: url(/fonts/teslafont.ttf);
+    src: url(./fonts/teslafont.ttf);
 }
 
 body{
