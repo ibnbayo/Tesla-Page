@@ -153,26 +153,26 @@ a{
 /*Background Image styles*/
 
 .container1 {
-    background-image: url("/images/model3.jfif");
+    background-image: url("./images/model3.jfif");
     position: absolute;
 }
 .container2{
-    background-image: url("/images/ModelY.jfif");
+    background-image: url("./images/ModelY.jfif");
 }
 .container3{
-    background-image: url("/images/models.jfif");
+    background-image: url("./images/models.jfif");
 }
 .container4{
-    background-image: url("/images/ModelX.jfif");
+    background-image: url("./images/ModelX.jfif");
 }
 .container5{
-    background-image: url("/images/solarpanels.jfif");
+    background-image: url("./images/solarpanels.jfif");
 }
 .container6{
-    background-image: url("/images/solarroof.jfif");
+    background-image: url("./images/solarroof.jfif");
 }
 .container7{
-    background-image: url("/images/accessories.jfif");
+    background-image: url("./images/accessories.jfif");
 }
 
 .conts{
@@ -190,26 +190,26 @@ a{
         justify-content: center;
     }
     .container1 {
-        background-image: url("/images/M3HomepageM.jpeg");
+        background-image: url("./images/M3HomepageM.jpeg");
 
     }
     .container2{
-        background: url("/images/modelyhomepagem6.jpg"); 
+        background: url("./images/modelyhomepagem6.jpg"); 
     }
     .container3{
-        background-image: url("/images/mshomepagemobile.jpeg");
+        background-image: url("./images/mshomepagemobile.jpeg");
     }
     .container4{
-        background-image: url("/images/ModelXHomepageM.jpeg");
+        background-image: url("./images/ModelXHomepageM.jpeg");
     }
     .container5{
-        background-image: url("/images/HPSolarPanelsM.jpeg");
+        background-image: url("./images/HPSolarPanelsM.jpeg");
     }
     .container6{
-        background-image: url("/images/HPSRDesignM1.jpg");  
+        background-image: url("./images/HPSRDesignM1.jpg");  
     }
     .container7{
-        background-image: url("/images/MobileAccessories.jpeg");
+        background-image: url("./images/MobileAccessories.jpeg");
     }
     .container1,.container2,.container3,.container4,.container5,.container6,.container7{
         object-fit: contain;
