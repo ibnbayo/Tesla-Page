@@ -3,7 +3,7 @@
 
 ## Overview
 This is a clone of the Tesla landing page using HTML, CSS and Javascript.<br/>
-LIVE LINK: https://ibnbayo.github.io/first/
+LIVE LINK: https://ibnbayo.github.io/Tesla-Page/
 
 
 ## Features
@@ -19,7 +19,7 @@ LIVE LINK: https://ibnbayo.github.io/first/
 
 ## Running The Project
 Live version:
-[Tesla Landing Page](https://ibnbayo.github.io/first/)
+[Tesla Landing Page](https://ibnbayo.github.io/Tesla-Page/)
 
 From the repo:<br/>
   - Clone this project locally<br/>
